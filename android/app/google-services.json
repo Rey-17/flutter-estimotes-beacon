@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565988373018",
+    "firebase_url": "https://beacon-push.firebaseio.com",
+    "project_id": "beacon-push",
+    "storage_bucket": "beacon-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565988373018:android:b3002d908a58b5b2a297a3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_test_beacon2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565988373018-5a2hl1o0c52f6qb51e9875lt6qpoa3tb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_test_beacon2",
+            "certificate_hash": "91bab0edd64011b3dce4910bce30c3c271cc6c5c"
+          }
+        },
+        {
+          "client_id": "565988373018-f28r2vb5qmjapjrtipcobf19ash22i27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLn1ngMa1QzMQfoHWvzU8iGQFXkFRk6Ec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565988373018-f28r2vb5qmjapjrtipcobf19ash22i27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
